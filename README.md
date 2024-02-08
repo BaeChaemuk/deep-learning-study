@@ -1,3 +1,3 @@
 # deep-learning-study
 
-딥러닝 모델 정복하기
+딥러닝 모델 구현과 활용
